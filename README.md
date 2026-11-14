@@ -2,8 +2,6 @@
 
 <img src="docs/images/zelda-oot-remake-save-editor-icon.png" alt="Zelda Ocarina of Time Remake Save Editor logo" width="300">
 
-# Zelda Ocarina of Time Remake Save Editor
-
 **Edit your adventure. Track your collection. Find what you’re missing.**
 
 A Zelda-themed Windows save editor with equipment and inventory editing, a completion checklist, and in-app guides.
