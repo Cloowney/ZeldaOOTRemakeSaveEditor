@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="ZeldaOOTRemakeSaveEditor/Assets/ZeldaOOTIcon.png" alt="Zelda Ocarina of Time Remake Save Editor logo" width="300">
+<img src="docs/images/zelda-oot-remake-save-editor-icon.png" alt="Zelda Ocarina of Time Remake Save Editor logo" width="300">
 
 # Zelda Ocarina of Time Remake Save Editor
 
