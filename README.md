@@ -15,6 +15,7 @@ A Zelda-themed Windows save editor with equipment and inventory editing, a compl
 - View overall progress and separate quest, permanent-item, and collectible progress.
 - Edit rupees and supported upgrades, equipment, tools, spells, and consumables.
 - Manage Gold Skulltula locations and review Pieces of Heart.
+- Browse a searchable Guides page with walkthroughs in story order and save-based completion tracking.
 - Open guides inside the app, with descriptions and available images or videos.
 - Play guide videos in a separate resizable window.
 - Back up saves when applying edits and install future updates from GitHub.
@@ -45,7 +46,7 @@ Get a quick view of the loaded save. The Adventure Progression badge shows overa
 
 ![Overview showing the loaded save, Adventure Progression, rupees, and equipped wallet](docs/images/overview.jpg)
 
-### Checklist & Guides
+### Checklist
 
 See which tracked objectives are complete and which are still missing. Search the checklist or show only incomplete objectives. Categories include dungeons, quest milestones, songs, permanent items, and collectibles.
 
@@ -54,6 +55,16 @@ Guide buttons open a popup with a loading indicator, description, and available 
 The completion percentage measures the editor’s tracked objectives. It is not an official in-game completion percentage.
 
 ![Checklist and Guides showing completion percentages, search, incomplete filter, and dungeon guides](docs/images/checklist-guides.jpg)
+
+### Guides
+
+Find your next step with a dedicated library of **142 IGN guides**, including **19 walkthrough chapters in story order**. Search by title or topic, or browse guides for dungeons, collectibles, upgrades, items, minigames, and side quests.
+
+With a save loaded, matched guides show **Complete / Incomplete** status based on tracked quest and item milestones. Use **Incomplete only** to narrow the list, or open the **Next tracked step** suggestion when you need help deciding where to go next. Pending edits are reflected in the tracked progress, while general reference articles are marked separately.
+
+You can also use Guides **without loading a save**. Search and open articles as a reference library, with completion information hidden. Guides open inside the editor with available images or videos and a link to the IGN source. Internet access is required to load guide content.
+
+![Guides page showing ordered walkthroughs, search, tracked completion, and the next-step suggestion](docs/images/guides.jpg)
 
 ### Collection
 
