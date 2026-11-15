@@ -57,6 +57,7 @@ The completion percentage measures the editor’s tracked objectives. It is not 
 ![Checklist and Guides showing completion percentages, search, incomplete filter, and dungeon guides](docs/images/checklist-guides.jpg)
 
 ### Guides
+# CREDIT TOO IGN.COM FOR THE GUIDES!!! THE EDITOR ONLY FETCHES THEM FROM THERE! [IGN’s Ocarina of Time Remake guides](https://www.ign.com/wikis/ocarina-of-time-remake)
 
 Find your next step with a dedicated library of **142 IGN guides**, including **19 walkthrough chapters in story order**. Search by title or topic, or browse guides for dungeons, collectibles, upgrades, items, minigames, and side quests.
 
